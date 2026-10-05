@@ -1,0 +1,8 @@
+# Paper PDFs and local research notes are kept outside the published gallery.
+*.pdf
+paper/README.md
+
+# Local model weights and caches.
+best.pt
+.cache/
+.DS_Store
